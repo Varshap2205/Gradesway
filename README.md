@@ -1,8 +1,25 @@
-# React + Vite
+# 📚 Lesson Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application that generates **detailed lesson plans** based on a given **topic and grade level**. It uses an API to generate structured lesson plans dynamically.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🎯 **Generate lesson plans** for any topic & grade level  
+- 📡 **Fetch data from an API** dynamically  
+- 🖥️ **Interactive UI** with an accordion-based design  
+- ⚡ **Built with React + Vite** for fast performance  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **API:** Custom lesson plan generation API  
+
+---
+
+## 📂 Project Structure
+
