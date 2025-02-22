@@ -21,5 +21,5 @@ A web application that generates **detailed lesson plans** based on a given **to
 
 ---
 
-## 📂 Project Structure
-
+Username : demouser
+Password : demopass
